@@ -5,4 +5,6 @@ here i provided Tinkercad link for the connections and also you can verify above
 
 # for sr04 zip file:
 //include library by using Sketch->Include Library->Add .Zip library-> find "HC-SR04LIB.zip"
+I provided this library in the above folder HC-SR04LIB, you can download the folder and zip it and go to sketch tab and then select include library and select add .Zip library then find the downoaded hc-sr04lib zip folder and click ok.
+
 
